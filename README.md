@@ -3,7 +3,6 @@
      It will be read and overwritten.
      DO NOT EDIT! no more doc doc-->
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-<TITLE>Brian Bauska's Bookmarks</TITLE>
 <H1>Brian Bauska's Bookmarks</H1>
 <DL><p>
     <DT><H3 ADD_DATE="1494692505" LAST_MODIFIED="1551807336" PERSONAL_TOOLBAR_FOLDER="true">Bookmarks bar</H3>
