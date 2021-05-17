@@ -1,7 +1,7 @@
 <!DOCTYPE NETSCAPE-Bookmark-file-1>
 <!-- This is an automatically generated file.
      It will be read and overwritten.
-     DO NOT EDIT! -->
+     DO NOT EDIT! no more doc doc-->
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <TITLE>Brian Bauska's Bookmarks</TITLE>
 <H1>Brian Bauska's Bookmarks</H1>
