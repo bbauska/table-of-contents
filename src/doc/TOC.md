@@ -1,4 +1,4 @@
-[table-of-contents homepage](https://table-of-contents.bauska.site/)
+[table-of-contents homepage](https://table-of-contents.bauska.org/)
 
 ## Getting started
 
